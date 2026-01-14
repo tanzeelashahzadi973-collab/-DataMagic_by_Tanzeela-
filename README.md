@@ -1,6 +1,6 @@
 DataMagic_by_Tanzeela✨
 
-Hi, I am **Tanzeela Twinkle**!  
+Hi, I am **Tanzeela Aftab**!  
 Turning Data Into Magic ✨ | Kaggle Datasets Expert (@guriya79) | Skilled in Python, NumPy, pandas, scikit-learn & Matplotlib | Building Data-Driven Projects & Insights.
 
 ---
