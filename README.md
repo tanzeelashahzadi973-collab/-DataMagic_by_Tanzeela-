@@ -28,5 +28,5 @@ Special thanks to [@guriya79](https://www.kaggle.com/guriya79) for providing ama
 
 ## Contact
 - Kaggle: [guriya79](https://www.kaggle.com/guriya79)  
-- LinkedIn: [Tanzeela Twinkle](https://www.linkedin.com/in/tanzeela-twinkle)  
+- LinkedIn: [Tanzeela Twinkle](https://www.linkedin.com/in/tanzeela-aftab)  
 - Email: tanzeelashahzadi973@gmail.com
